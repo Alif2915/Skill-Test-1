@@ -1,0 +1,4 @@
+Nama : M.Alif
+Umur : 26 Tahun 
+Stack : FullStack
+Bahasa Pemrograman : MERN 
